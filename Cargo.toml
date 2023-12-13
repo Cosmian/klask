@@ -15,7 +15,6 @@ clap = { version = "4.1.14", default-features = false, features = [
     "std",
     "derive",
     "unicode",
-    "deprecated",
     "error-context",
 ] }
 eframe = { version = "0.23.0" }
